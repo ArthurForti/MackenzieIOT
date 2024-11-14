@@ -34,11 +34,16 @@ Reconexão automática ao MQTT em caso de desconexão, garantindo estabilidade e
 **Materiais Utilizados**
 
 Protoboard
-Jumper wires
-Arduino Uno (CH340)
+
+Jumpers
+
+Arduino Uno
 ESP8266
-Relé de 1 canal (5V) para controle da bomba
+
+Relé de 1 canal (5V)
+
 Sensor de umidade do solo
+
 Mini bomba d'água (JT100)
 
 **Diagrama**
