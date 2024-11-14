@@ -19,12 +19,6 @@ Controle automático da bomba de água com base nas leituras do sensor de umidad
 Publicação do estado da bomba em um tópico MQTT, acessível para monitoramento remoto.
 Reconexão automática ao MQTT em caso de desconexão, garantindo estabilidade e continuidade.
 
-**Diagrama**
-
-
-![Imagem](https://github.com/user-attachments/assets/cc79fa90-87d8-40e4-a797-83156da047f3)
-
-
 **Materiais Utilizados**
 Protoboard
 Jumper wires
@@ -33,6 +27,10 @@ ESP8266
 Relé de 1 canal (5V) para controle da bomba
 Sensor de umidade do solo
 Mini bomba d'água (JT100)
+
+**Diagrama**
+
+![Imagem](https://github.com/user-attachments/assets/e88ca80a-660a-4d89-925a-313b3ea828a4)
 
 
 **Fluxo de Operação**
@@ -50,5 +48,9 @@ Tópico: *arthuresilviamackenzie*
   "estado_bomba": "Ligada" ou "Desligada"
 }`
 
-**Licença e Contribuição**
+**Licença**
 Este projeto foi desenvolvido para fins acadêmicos na Universidade Presbiteriana Mackenzie e está aberto para melhorias e contribuições para futuras implementações e aprimoramentos.
+
+**Contribuição**
+Arthur Forti Bueno Torres (https://github.com/ArthurForti)
+Sílvia Vitória Ribeiro (https://github.com/silviaribeiro)
