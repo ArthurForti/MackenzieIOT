@@ -52,6 +52,7 @@ Tópico: *arthuresilviamackenzie*
 Este projeto foi desenvolvido para fins acadêmicos na Universidade Presbiteriana Mackenzie e está aberto para melhorias e contribuições para futuras implementações e aprimoramentos.
 
 **Contribuição**
+
 Arthur Forti Bueno Torres (https://github.com/ArthurForti)
 
 Sílvia Vitória Ribeiro (https://github.com/silviaribeiro)
