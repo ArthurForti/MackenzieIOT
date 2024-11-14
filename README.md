@@ -1,4 +1,13 @@
-**Projeto de Irrigação Automática IoT - UNIVERSIDADE PRESBITERIANA MACKENZIE**
+**Universidade Presbiteriana Mackenzie**
+
+**Alunos**
+
+Arthur Forti Bueno Torres (https://github.com/ArthurForti)
+
+Sílvia Vitória Ribeiro (https://github.com/silviaribeiro)
+
+
+**Projeto de Irrigação Automática para indústrias IoT**
 
 **Descrição do Projeto**
 
@@ -58,9 +67,3 @@ Tópico: *arthuresilviamackenzie*
 **Licença**
 
 Este projeto foi desenvolvido para fins acadêmicos na Universidade Presbiteriana Mackenzie e está aberto para melhorias e contribuições para futuras implementações e aprimoramentos.
-
-**Contribuição**
-
-Arthur Forti Bueno Torres (https://github.com/ArthurForti)
-
-Sílvia Vitória Ribeiro (https://github.com/silviaribeiro)
