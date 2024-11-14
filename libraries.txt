@@ -1,0 +1,5 @@
+Libraries:
+ESP8266WiFi
+WiFiClient
+ArduinoJson
+PubSubClient
