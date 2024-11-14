@@ -19,7 +19,9 @@ Controle automático da bomba de água com base nas leituras do sensor de umidad
 Publicação do estado da bomba em um tópico MQTT, acessível para monitoramento remoto.
 Reconexão automática ao MQTT em caso de desconexão, garantindo estabilidade e continuidade.
 
-**Diagrama** \n
+**Diagrama**
+
+
 ![Imagem](https://github.com/user-attachments/assets/cc79fa90-87d8-40e4-a797-83156da047f3)
 
 
