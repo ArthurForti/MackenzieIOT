@@ -53,4 +53,5 @@ Este projeto foi desenvolvido para fins acadêmicos na Universidade Presbiterian
 
 **Contribuição**
 Arthur Forti Bueno Torres (https://github.com/ArthurForti)
+
 Sílvia Vitória Ribeiro (https://github.com/silviaribeiro)
